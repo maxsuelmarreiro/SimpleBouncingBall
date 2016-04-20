@@ -40,7 +40,6 @@ public class Bolinhas extends JFrame implements MouseListener {
         }
     }
 
-
     @Override
     public void mousePressed(MouseEvent e) {
 

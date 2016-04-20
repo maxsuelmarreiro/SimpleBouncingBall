@@ -2,7 +2,6 @@
  * Created by '-Maxsuel on 16/04/2016.
  */
 public class ThreadBola extends Thread {
-
     private Bola bola;
 
     public ThreadBola(Bola bola) {
