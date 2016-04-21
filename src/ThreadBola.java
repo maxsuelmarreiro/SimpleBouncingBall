@@ -13,7 +13,7 @@ public class ThreadBola extends Thread {
         while (true) {
             bola.update();
             try {
-                Thread.sleep(15);
+                Thread.sleep(10);
             } catch (InterruptedException ex) {
             }
         }
